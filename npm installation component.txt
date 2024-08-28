@@ -1,0 +1,7 @@
+Install the following dependencies from NPM :
+
+npm init -y
+
+npm i express mongoose ejs
+
+npm i --save-dev nodemon 
